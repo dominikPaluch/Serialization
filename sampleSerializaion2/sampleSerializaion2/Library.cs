@@ -12,7 +12,7 @@ namespace sampleSerializaion2
     public class Library
     {
         public List<Book> ListOfBook;
-
+        void doNOthing() { }
         public Library()
         {
             ListOfBook = new List<Book>();

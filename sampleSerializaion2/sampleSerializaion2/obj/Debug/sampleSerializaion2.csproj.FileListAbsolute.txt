@@ -4,3 +4,6 @@ c:\users\dominik\documents\visual studio 2015\Projects\sampleSerializaion2\sampl
 c:\users\dominik\documents\visual studio 2015\Projects\sampleSerializaion2\sampleSerializaion2\obj\Debug\sampleSerializaion2.exe
 c:\users\dominik\documents\visual studio 2015\Projects\sampleSerializaion2\sampleSerializaion2\obj\Debug\sampleSerializaion2.pdb
 c:\users\dominik\documents\visual studio 2015\Projects\sampleSerializaion2\sampleSerializaion2\obj\Debug\sampleSerializaion2.csprojResolveAssemblyReference.cache
+C:\Users\Dominik\Source\Repos\Serialization\sampleSerializaion2\sampleSerializaion2\bin\Debug\sampleSerializaion2.exe.config
+C:\Users\Dominik\Source\Repos\Serialization\sampleSerializaion2\sampleSerializaion2\obj\Debug\sampleSerializaion2.exe
+C:\Users\Dominik\Source\Repos\Serialization\sampleSerializaion2\sampleSerializaion2\obj\Debug\sampleSerializaion2.pdb
